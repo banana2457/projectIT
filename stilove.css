@@ -1,0 +1,55 @@
+html {
+    background: #d5d3f2;
+   
+}
+    body{
+    background-color: #d5d3f2 ;
+    margin:auto;
+    width:1000px;
+}
+header{
+    background-color: darksalmon;
+    height: 80px;
+    width: : 100%;
+    position: fixed;
+    text-align: center;
+vertical-align: middle;
+    top: 0px ;
+    left: 0px;
+    right: 0px;
+}
+footer{
+    background-color: darksalmon;
+    height: 60px;
+    width: : 100%;
+    position: fixed;
+   bottom: 0px ;
+    left: 0px;
+    right: 0px;
+}
+h1{
+    font-family: inherit;
+    font-size: 40px;
+    font-weight: 100;
+color:#d5d3f2;
+    text-align: center;
+}
+h2{
+    font-family: serif;
+    font-size: 25px;
+    font: bold;
+    color: darkblue;
+     text-align: center;
+}
+h6{
+    font-family: inherit;
+    font-size: 20px;
+    font-weight:100;
+    color: #d5d3f2 ;
+    margin-top: 5px ;
+    text-align: center;
+}
+li{
+    font-family: fantasy;
+    font-size: 25px;
+}
